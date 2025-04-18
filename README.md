@@ -517,6 +517,10 @@ Have you discovered a vulnerability or have concerns about model output? Please 
 
 ---
 
+## Usage with ai
+
+[![openai/codex context](https://badge.forgithub.com/openai/codex/tree/main/codex-cli/src?maxTokens=100000&maxFileSize=)](https://uithub.com/openai/codex/tree/main/codex-cli/src?maxTokens=100000&maxFileSize=)
+
 ## License
 
 This repository is licensed under the [Apache-2.0 License](LICENSE).
